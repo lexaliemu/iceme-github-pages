@@ -42,6 +42,10 @@ font-size: 72px;
 	margin-bottom: 1em;
 }
 
+#wrapper button {
+	background-color: #1bc690;
+}
+
 .spacer {
 	height: 8em;
 }
@@ -75,4 +79,6 @@ letter-spacing: 1px;
 	color: white;
 	background-color: rgba(0, 0, 0, 0.3)
 }
+
+
 
